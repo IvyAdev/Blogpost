@@ -24,7 +24,7 @@ BLOGPOST/
 ├── blogpost.js       # JavaScript interactivity
 └── README.md         # Project description
 🔗 Live Demo
-Check it out here:
+Check it out here: https://ivyadev.github.io/Blogpost/#
 👉 
 🛠️ Technologies Used
 HTML5
